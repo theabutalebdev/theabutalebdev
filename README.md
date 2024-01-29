@@ -1,10 +1,8 @@
 ![ Frontend Developer](https://pbs.twimg.com/profile_banners/1750956526293164032/1706550696/1500x500)
 
-### Hi there 👋,  I'm Md Abu Taleb Khan
-####  Frontend Developer
+##Hi there 👋,  I'm Md Abu Taleb Khan
+###  Frontend Developer
 
-
- Hey there! I'm Md Abu Taleb Khan. A passionate Front-End Developer with a strong focus on React. I have approximately 1 year of solid experience on front end development.
 
 Skills: ◼ React.js ◼ Next.js ◼ Tailwind CSS ◼Bootstrap ◼ HTML5&CSS3 ◼JavaScript & jQuery
 
